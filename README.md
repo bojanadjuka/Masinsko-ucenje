@@ -16,10 +16,10 @@ postera filma kao i pomenute kolone koje se odnose na žanr.
 
 ## Literatura
 
- - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
- - [Predicting Genre from Movie Posters](https://cs229.stanford.edu/proj2019spr/report/9.pdf?fbclid=IwAR16buKK_018jmAH1XApf4gGpFsc0jj0ZbFi7kNHOxzTF1N8X8aTvCyccu4)
+ - [Deep Residual Learning for Image Recognition; Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/pdf/1512.03385.pdf)
+ - [Predicting Genre from Movie Posters; Gabriel Barney, Kris Kaya](https://cs229.stanford.edu/proj2019spr/report/9.pdf?fbclid=IwAR16buKK_018jmAH1XApf4gGpFsc0jj0ZbFi7kNHOxzTF1N8X8aTvCyccu4)
  - Deep Learning with Python, Francois Chollet, Manning, 2018
- - [Visualizing the Loss Landscape of Neural Nets, Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein](https://arxiv.org/pdf/1712.09913.pdf)
+ - [Visualizing the Loss Landscape of Neural Nets; Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein](https://arxiv.org/pdf/1712.09913.pdf)
 
 
 ## Autor
